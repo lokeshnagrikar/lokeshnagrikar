@@ -1,68 +1,320 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>•	Building full-stack projects using Spring Boot + React / Node.js<br>•	Improving my backend development and API design skills<br>🤝 I’m looking to collaborate on<br>•	Java & Spring Boot projects<br>•	Full-stack applications (React / Node.js + SQL)<br>•	Open-source beginner-friendly repositories<br>🧠 I’m looking for help with<br>•	AWS Basics (EC2, S3, RDS, IAM)<br>•	Writing optimized SQL queries<br>•	Improving system design and backend architecture<br>🌱 I’m currently learning<br>•	AWS Cloud<br>•	Advanced Java concepts (JDBC, JPA, Hibernate, Spring Security)<br>•	React.js performance and best practices<br>💬 Ask me about<br>•	Java | Spring Boot | SQL<br>•	REST APIs<br>•	React.js basics<br>•	Debugging backend issues<br>⚡ Fun fact<br>•	I love building real-world projects to learn faster and enjoy exploring new technologies every week!<br><br>
+# 👋 Hi, I'm Lokesh Nagrikar
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+React+Developer;Backend+Engineer;Microservices+Enthusiast;Building+Modern+SaaS+Applications" alt="Typing SVG" />
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lokeshnagrikar)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hey.__ritik)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lokeshnagrikar)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lokeshnagrikar14@gmail.com)
- 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Core Java](https://img.shields.io/badge/core%20java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Advanced Java](https://img.shields.io/badge/advanced%20java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Servlets](https://img.shields.io/badge/servlets-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
-![JSP](https://img.shields.io/badge/jsp-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/spring%20mvc-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/spring%20security-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Microservices](https://img.shields.io/badge/microservices-%23007396.svg?style=for-the-badge&logo=spring&logoColor=white)
-![REST API](https://img.shields.io/badge/rest%20api-%23007396.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Hibernate](https://img.shields.io/badge/hibernate-%23459687.svg?style=for-the-badge&logo=hibernate&logoColor=white)
-![JPA](https://img.shields.io/badge/jpa-%23459687.svg?style=for-the-badge&logo=java&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![API Development](https://img.shields.io/badge/api%20development-%23007396.svg?style=for-the-badge&logo=api&logoColor=white)
-![API Testing](https://img.shields.io/badge/api%20testing-%23FF6F00.svg?style=for-the-badge&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/jwt-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![OAuth2](https://img.shields.io/badge/oauth2-%23007396.svg?style=for-the-badge&logo=oauth&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%23007396.svg?style=for-the-badge&logo=database&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/intellij%20idea-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)
-![Maven](https://img.shields.io/badge/maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
-![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Debugging](https://img.shields.io/badge/debugging-%23007396.svg?style=for-the-badge&logo=bug&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/problem%20solving-%23007396.svg?style=for-the-badge&logo=target&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/responsive%20design-%23007396.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JSON](https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
-![Axios](https://img.shields.io/badge/axios-%234B32C3.svg?style=for-the-badge&logo=axios&logoColor=white)
-![Communication Skills](https://img.shields.io/badge/communication%20skills-%23007396.svg?style=for-the-badge&logo=googlechat&logoColor=white)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lokeshnagrikar&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=lokeshnagrikar&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshnagrikar&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=lokeshnagrikar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=lokeshnagrikar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://github.com/lokeshnagrikar">
+    <img src="https://img.shields.io/github/followers/lokeshnagrikar?label=Followers&style=for-the-badge&color=3B82F6"/>
+  </a>
+  <a href="https://github.com/lokeshnagrikar?tab=repositories">
+    <img src="https://img.shields.io/badge/Open%20Source-Love-red?style=for-the-badge"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=lokeshnagrikar&style=for-the-badge&color=blue"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=lokeshnagrikar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+<img align="right" width="360" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+I'm a **Full Stack Java Developer** passionate about building scalable backend systems and modern web applications.
+
+I enjoy solving real-world business problems using clean architecture, REST APIs, Spring Boot, and React.
+
+Currently focused on building production-ready SaaS applications while continuously improving my backend engineering, cloud, and system design skills.
+
+### 🚀 Currently Building
+
+* Enterprise SaaS Applications
+* Java Spring Boot APIs
+* Modern React Applications
+* Backend Architecture
+* Cloud-ready Systems
+
+### 🌱 Currently Learning
+
+* AWS Cloud
+* Microservices
+* Spring Security
+* System Design
+* Docker
+* CI/CD
+* Performance Optimization
+
+### 🤝 Open to Collaborate
+
+* Java Projects
+* Spring Boot APIs
+* React Projects
+* Open Source
+* SaaS Products
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/lokeshnagrikar">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:lokeshnagrikar14@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://instagram.com/hey.__ritik">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="https://facebook.com/lokeshnagrikar">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+## 🚀 Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,maven"/>
+
+</p>
+
+### Backend Technologies
+
+* Java
+* Spring Boot
+* Spring MVC
+* Spring Security
+* Hibernate
+* JPA
+* Servlets
+* JSP
+* JWT Authentication
+* OAuth2
+* REST APIs
+* Microservices
+
+---
+
+## 🎨 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind"/>
+
+</p>
+
+---
+
+## 🗄 Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+
+</p>
+
+---
+
+## ☁️ Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,git,github,docker"/>
+
+</p>
+
+---
+
+## 🛠 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=idea,eclipse,postman,vscode"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project                | Description                      | Tech                |
+| ---------------------- | -------------------------------- | ------------------- |
+| 🚀 EventOS             | Enterprise Event Management SaaS | Spring Boot • React |
+| 📚 Memora              | AI Learning Platform             | Java • React        |
+| 🍽 Restaurant SaaS     | Restaurant Website Platform      | React • Tailwind    |
+| 🔐 Authentication APIs | JWT + Spring Security            | Spring Boot         |
+| 🌐 Portfolio Projects  | Modern Responsive Websites       | React               |
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lokeshnagrikar&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshnagrikar&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=lokeshnagrikar&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lokeshnagrikar&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=lokeshnagrikar&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+* ✅ Build scalable SaaS products
+* ✅ Master Spring Boot ecosystem
+* ✅ Learn AWS Cloud
+* ✅ Improve System Design
+* ⏳ Docker & Kubernetes
+* ⏳ CI/CD Pipelines
+* ⏳ Open Source Contributions
+* ⏳ Build Enterprise Microservices
+
+---
+
+# 📚 Currently Exploring
+
+```text
+✔ Spring Boot
+
+✔ Spring Security
+
+✔ AWS Cloud
+
+✔ System Design
+
+✔ Microservices
+
+✔ Clean Architecture
+
+✔ REST APIs
+
+✔ React Performance
+
+✔ SQL Optimization
+```
+
+---
+
+# 💡 Developer Philosophy
+
+```java
+public class Developer {
+
+    private final String name = "Lokesh Nagrikar";
+
+    private final String role = "Full Stack Java Developer";
+
+    private final String passion =
+            "Building scalable software.";
+
+    public void code() {
+
+        while(true){
+
+            learn();
+
+            build();
+
+            improve();
+
+            repeat();
+        }
+    }
+}
+```
+
+---
+
+# ⚡ Fun Facts
+
+* ☕ Coffee + Music = Productivity
+* 💻 Love Backend Development
+* 🚀 Passionate about SaaS
+* 📖 Learning Every Day
+* 🌍 Exploring New Technologies
+* 🔥 Clean Code Enthusiast
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/lokeshnagrikar/lokeshnagrikar/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+> **Note:** You'll need to set up a GitHub Action to generate the snake animation automatically.
+
+---
+
+# 📫 Reach Me
+
+📧 **Email**
+
+**[lokeshnagrikar14@gmail.com](mailto:lokeshnagrikar14@gmail.com)**
+
+💼 **LinkedIn**
+
+linkedin.com/in/lokeshnagrikar
+
+📷 **Instagram**
+
+@hey.__ritik
+
+---
+
+# ⭐ Quote
+
+> **"First, solve the problem. Then, write the code."** — John Johnson
+
+---
+
+<p align="center">
+
+### Thanks for visiting my profile ❤️
+
+⭐ If you like my work, consider following me and starring my repositories.
+
+</p>
